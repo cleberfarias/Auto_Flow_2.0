@@ -1,0 +1,8 @@
+{
+  "name": "AutoFlow Visual Automation Editor",
+  "description": "A comprehensive visual conversational workflow builder with LLM-powered generation, API integrations, and a real-time testing environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
